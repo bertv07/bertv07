@@ -1,4 +1,4 @@
-# <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FFFFFF&width=435&lines=Hola%2C+un+gusto+mi+nombre+es+Gleybert" alt="Typing SVG" /></a>
+# <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FFFFFF&width=435&lines=Hola%2C+un+gusto%2C+mi+nombre+es+Gleybert" alt="Typing SVG" /></a>
 <img src="https://i.pinimg.com/736x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg" alt="" width="100%">
 
 
