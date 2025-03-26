@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=6853D7&width=435&lines=Hola%2C+un+gusto+mi+nombre+es+Gleybert" alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FFFFFF&width=435&lines=Hola%2C+un+gusto+mi+nombre+es+Gleybert" alt="Typing SVG" /></a>
 # 💫 About Me:
 🔭 Actualmente estoy trabajando en mi portafolio<br>🌱 Actualmemte estoy aprendiendo Angular
 
